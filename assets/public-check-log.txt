@@ -1,0 +1,122 @@
+TBAR PUBLIC URL CHECK LOG
+Checked: October 30, 2026
+Scope: 17 homepage-linked HTML URLs and 90 unique sitemap URLs. These sets may overlap.
+Method: public HTTP response checks, plus a browser recheck for the temporary Classic Chai error.
+Limits: HTTP 200 does not prove forms, JavaScript, payments, all links, external resources or order tracking work.
+No private account access, calls, form submissions or orders were made.
+
+HOMEPAGE-LINKED URL CHECKS (17)
+status	URL	final URL
+200	https://ilovetbar.com/	https://ilovetbar.com/
+200	https://ilovetbar.com/locations/	https://ilovetbar.com/locations/
+200	https://ilovetbar.com/location/	https://ilovetbar.com/location/
+200	https://ilovetbar.com/our-story/	https://ilovetbar.com/our-story/
+200	https://ilovetbar.com/careers/	https://ilovetbar.com/careers/
+200	https://ilovetbar.com/give-the-gift-of-tea/	https://ilovetbar.com/give-the-gift-of-tea/
+200	https://ilovetbar.com/takeovertbar-2/	https://ilovetbar.com/takeovertbar-2/
+200	https://ilovetbar.com/talk-to-us/	https://ilovetbar.com/talk-to-us/
+200	https://ilovetbar.com/order-online/	https://ilovetbar.com/order-online/
+200	https://ilovetbar.com/catering/	https://ilovetbar.com/catering/
+200	https://ilovetbar.com/our-community/	https://ilovetbar.com/our-community/
+200	https://ilovetbar.com/tbar-takeover-application/	https://ilovetbar.com/tbar-takeover-application/
+200	https://ilovetbar.com/menus/menu-chico/	https://ilovetbar.com/menus/menu-chico/
+200	https://ilovetbar.com/menus/menu-sacramento/	https://ilovetbar.com/menus/menu-sacramento/
+200	https://ilovetbar.com/gift-card/	https://ilovetbar.com/gift-card/
+200	https://ilovetbar.com/cart/	https://ilovetbar.com/cart/
+200	https://ilovetbar.com/shop/	https://ilovetbar.com/shop/
+
+SITEMAP CHECKS (90 unique URLs; 91 observations)
+status	URL	note
+200	https://ilovetbar.com/sample-page/	
+200	https://ilovetbar.com/	
+200	https://ilovetbar.com/our-community/	
+200	https://ilovetbar.com/our-story/	
+200	https://ilovetbar.com/location/	
+200	https://ilovetbar.com/shop/	
+200	https://ilovetbar.com/cart/	
+200	https://ilovetbar.com/checkout/	
+200	https://ilovetbar.com/my-account/	
+200	https://ilovetbar.com/gift-card/	
+200	https://ilovetbar.com/tbar-take-over/	
+200	https://ilovetbar.com/talk-to-us/	
+200	https://ilovetbar.com/tbar-takeover-application/	
+200	https://ilovetbar.com/t29-test-page/	
+200	https://ilovetbar.com/give-the-gift-of-tea/	
+200	https://ilovetbar.com/careers/	
+200	https://ilovetbar.com/takeovertbar-2/	
+200	https://ilovetbar.com/catering/	
+200	https://ilovetbar.com/order-online/	
+200	https://ilovetbar.com/product/gift-card/	
+200	https://ilovetbar.com/locations/sacramento/	
+200	https://ilovetbar.com/locations/redding/	
+200	https://ilovetbar.com/menus/menu-chico/	
+200	https://ilovetbar.com/menus/test-3/	
+200	https://ilovetbar.com/menus/menu-template/	
+200	https://ilovetbar.com/menus/menu-sacramento/	
+200	https://ilovetbar.com/ingredients/white-tea/	
+200	https://ilovetbar.com/ingredients/green-tea/	
+200	https://ilovetbar.com/ingredients/herbal-tea/	
+200	https://ilovetbar.com/ingredients/black-tea/	
+200	https://ilovetbar.com/ingredients/oolong-tea/	
+200	https://ilovetbar.com/ingredients/roobios-tea/	
+200	https://ilovetbar.com/teaz/chocolate-chai-frost/	
+200	https://ilovetbar.com/teaz/strawberry-almond-frost/	
+200	https://ilovetbar.com/teaz/rasberry-crush-freeze/	
+200	https://ilovetbar.com/teaz/tangerine-ginger/	
+200	https://ilovetbar.com/teaz/blackberry-lemonade/	
+200	https://ilovetbar.com/teaz/strawberry-lime/	
+200	https://ilovetbar.com/teaz/acai-sunrise/	
+200	https://ilovetbar.com/teaz/honeydew-chill/	
+200	https://ilovetbar.com/teaz/peach-palmer/	
+200	https://ilovetbar.com/teaz/green-tea-coconut/	
+ERROR	https://ilovetbar.com/teaz/classic-chai/	HTTP Error 503: Service Unavailable
+200	https://ilovetbar.com/teaz/oolong-caramel-cream/	
+200	https://ilovetbar.com/teaz/mango-madness/	
+200	https://ilovetbar.com/teaz/matcha-mint-frost/	
+200	https://ilovetbar.com/teaz/lemondrop-freeze/	
+200	https://ilovetbar.com/teaz/peach-freeze/	
+200	https://ilovetbar.com/teaz/cranberry-spark/	
+200	https://ilovetbar.com/teaz/acai-pomegranate/	
+200	https://ilovetbar.com/teaz/mystic-mandarin/	
+200	https://ilovetbar.com/teaz/ginger-pear/	
+200	https://ilovetbar.com/teaz/pomegranate-lemonade/	
+200	https://ilovetbar.com/teaz/tropical-burst/	
+200	https://ilovetbar.com/teaz/grapefruit-skyliner/	
+200	https://ilovetbar.com/teaz/strawberry-lemonade/	
+200	https://ilovetbar.com/teaz/matcha-sin/	
+200	https://ilovetbar.com/teaz/honeytea-latte/	
+200	https://ilovetbar.com/teaz/green-tea-almond/	
+200	https://ilovetbar.com/teaz/black-tea-vanilla/	
+200	https://ilovetbar.com/teaz/hibiscus-haze/	
+200	https://ilovetbar.com/teaz/ginger-peach/	
+200	https://ilovetbar.com/teaz/hibiscus-mist/	
+200	https://ilovetbar.com/teaz/matcha-magic/	
+200	https://ilovetbar.com/teaz/mango-ceylon/	
+200	https://ilovetbar.com/teaz/hibiscus-haze-copy/	
+200	https://ilovetbar.com/teaz/orange-chai/	
+200	https://ilovetbar.com/teaz/ginger-peach-2/	
+200	https://ilovetbar.com/teaz/strawberry-mojito/	
+200	https://ilovetbar.com/teaz/raspberry-mojito/	
+200	https://ilovetbar.com/teaz/peach-bellini/	
+200	https://ilovetbar.com/teaz/black-tea-maple-spiced/	
+200	https://ilovetbar.com/teaz/blueberry-hibiscus/	
+200	https://ilovetbar.com/teaz/pomegranate-splash/	
+200	https://ilovetbar.com/snack/chicken-teriyaki-kids-bowl/	
+200	https://ilovetbar.com/snack/fusion-miso-soup/	
+200	https://ilovetbar.com/snack/warm-edamame-bowl/	
+200	https://ilovetbar.com/snack/teriyaki-chicken-and-pineapple-skewers-4/	
+200	https://ilovetbar.com/snack/mini-carrot-cake/	
+200	https://ilovetbar.com/snack/slice-of-chocolate-sin-cake/	
+200	https://ilovetbar.com/snack/fresh-baked-cookies-biscotti/	
+200	https://ilovetbar.com/snack/side-of-rice-extra-naan-extra-cucumber/	
+200	https://ilovetbar.com/ingredient_category/tea/	
+200	https://ilovetbar.com/teaz_category/frost/	
+200	https://ilovetbar.com/teaz_category/sparkle/	
+200	https://ilovetbar.com/teaz_category/ice/	
+200	https://ilovetbar.com/teaz_category/steam/	
+200	https://ilovetbar.com/teaz_category/ontap/	
+200	https://ilovetbar.com/teaz_category/tapme/	
+200	https://ilovetbar.com/product-category/uncategorized/	
+200	https://ilovetbar.com/teaz/classic-chai/	Recheck after initial503, browser also loaded normally
+
+Result: all 90 sitemap URLs eventually returned HTTP 200. Classic Chai returned an initial 503, then 200 on recheck. No persistent broken-page finding is made from that temporary response.
